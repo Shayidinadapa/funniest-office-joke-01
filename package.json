@@ -1,0 +1,1 @@
+{"description":"One-line office joke entry for make.fun's The Funniest Office Joke, Judged Head to Head bounty.","license":"MIT","name":"funniest-office-joke-01","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
